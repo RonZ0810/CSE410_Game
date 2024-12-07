@@ -15,16 +15,6 @@
 			"Name": "Flanking_System",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/47c5e3736b334025ba623b9709ff0c0a"
-		},
-		{
-			"Name": "DungeonGenerator",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/36a8b87d859f44439cfe1515975d7197"
-		},
-		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
 		}
 	]
 }
